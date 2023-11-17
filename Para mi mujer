@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/Estilo.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>Pagina pa mi mujer</title>
+</head>
+<body>
+    <div class="encabezado">
+        <font size="8">
+        Razones por las que Denisse Ramos es la mejor novia!!
+        </font>
+    </div>
+    <div class="contenedor">
+
+        <div class="caja1">
+            <img src="./IMG/Deni y yo 1.jpg" height="380" width="300">
+        </div>
+
+        <div class="caja2">
+          <img src="./IMG/Deni y yo 2.jpg" height="380" width="300">
+        </div>
+
+        <div class="caja3">
+          <img src="./IMG/Deni y yo 3.jpg" height="380" width="300">
+        </div>
+    </div>
+
+    <div class="Descripcion">
+      <h1>Razones: </h1>
+        <div class="lore">
+          <h3 class="text-danger-emphasis">num 1</h3>
+          <h5>me hace mucho regalitos echos con mucho amor y a mano usando cada cariñito de su corazon. Todos los guardo y me enamoran</h5>
+        </div>
+        <br>
+        <div class="lore">
+          <h3 class="text-success-emphasis">num 2</h3>
+          <h5>Llena de emocion y amor cada uno de mis dias, 20 segundos con ella eran como horas con cualquier otra persona, simplemente me hace demasiado feliz</h5>
+        </div>
+        <br>
+        <div class="lore">
+          <h3 class="text-primary-emphasis">num 3</h3>
+          <h5>Y lo mas importante de todo, es una increible persona que siempre busca lo bueno para el otro, busca la felicidad del otro, simplemente un mujeron hermosa preciosa bella sexy amorcito mio</h5>
+        </div>
+    </div>
+
+    <div class="StarterPack">
+      <div id="carouselExampleDark" class="carousel carousel-dark slide">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-bs-interval="10000">
+            <img src="./IMG/mi mujer.jpg" class="d-block w-100" height="500" width="500">
+          </div>
+          <div class="carousel-item" data-bs-interval="2000">
+            <img src="./IMG/mi mujer 2.jpg" class="d-block w-100" height="500" width="200">
+          </div>
+          <div class="carousel-item">
+            <img src="./IMG/mi mujer 3.jpg" class="d-block w-100" height="500" width="200">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="contenedor">
+      <font size="7">
+        En resumen, mi mujer es preciosa, la suya no. Mi mujer es perfecta la suya no. Mi mujer me es super fiel la suya no. Y tambien mi mujer me ama con todo su corazon y la suya no, un beso y te amo con el ama Deni muak muak
+        </font>
+    </div>
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+</body>
+</html>
